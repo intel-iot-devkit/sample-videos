@@ -1,2 +1,1 @@
-# sample-videos
-Sample videos for running inference
+Sample videos such as single class object detection for running inference.
